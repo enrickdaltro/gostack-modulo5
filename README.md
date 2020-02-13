@@ -71,3 +71,7 @@ https://api.github.com/repos/rocketseat/unform/issues?page=2
 ```
 
 Adicione apenas um botão de próxima página e página anterior. O botão de página anterior deve ficar desativado na primeira página.
+
+![Screen Shot 2020-02-13 at 15 14 11](https://user-images.githubusercontent.com/49761746/74466165-805dea00-4e75-11ea-8836-2367d1838283.png)
+
+![Screen Shot 2020-02-13 at 15 14 24](https://user-images.githubusercontent.com/49761746/74466173-8358da80-4e75-11ea-9536-9a1c1c671843.png)
